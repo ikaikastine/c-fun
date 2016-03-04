@@ -1,2 +1,2 @@
-# git-fun
-Random projects for fun
+# c-fun
+Random projects in C for fun
